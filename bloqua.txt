@@ -1,0 +1,12 @@
+! Title: Bloqua
+! Expires: 1 day
+! Description: uBlock Origin filters list to block annoying Support Ukraine advertisements
+! Homepage: https://github.com/ruooens/bloqua
+! Licence: https://github.com/ruooens/bloqua/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/ruooens/bloqua/issues
+! GitHub pull: https://github.com/ruooens/bloqua/pulls
+
+emberjs.com##.callout-banner
+emotion.sh##.css-t13dtp
+reactnavigation.org##.announcementBarContent_3EUC
